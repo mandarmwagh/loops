@@ -4,10 +4,10 @@ public class RecursiveMethod {
 
 	public static void main(String[] args) {
 
-		int i = 1;
-		int n = 10;
-
-		int factorial = factorial(5);
+		/*
+		 * int i = 1; int n = 10;
+		 */
+		int factorial = factorial(3);
 
 		System.out.println("Factorial is : " + factorial);
 	}
